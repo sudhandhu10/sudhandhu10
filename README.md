@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sudhanshu Shukla
 
-🎓 Final Year B.Tech CSE | 🤖 Computer Science Engineer | 📊 Data Analyst  
-🚀 Building end-to-end AI solutions deployed on HuggingFace
+🎓 B.Tech CSE Graduate (2026) | 💻 Computer Science Engineer | 📊 Data Analyst 
+🚀 Built end-to-end AI solutions | Open to Data Analyst & ML Engineer roles
 
 ---
 
